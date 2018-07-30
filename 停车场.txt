@@ -1,0 +1,19 @@
+given 我有一个停车场
+when 我要停车
+then "停车位已满"
+
+
+given 我有一个停车场
+when 我要停车
+then "停车成功"
+
+
+
+given 我有一个停车场
+when 我要取车
+then "取车成功"
+
+
+given 我有一个停车场
+when 我要取车
+then "取车失败"
